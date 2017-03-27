@@ -55,7 +55,7 @@ public class PizzaOrder {
     }
 
     public void setCrust(String crust) {
-        this.crust = size;
+        this.crust = crust;
     }
 
     @Override
